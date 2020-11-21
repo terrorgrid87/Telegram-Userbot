@@ -4,9 +4,9 @@
 # you may not use this file except in compliance with the License.
 #
 """Userbot module which contains afk-related commands"""
+import asyncio
 
 from datetime import datetime
-import time
 from random import choice, randint
 
 from telethon.events import StopPropagation
@@ -101,7 +101,7 @@ async def type_afk_is_not_true(notafk):
     if ISAFK:
         ISAFK = False
         msg = await notafk.respond("I'm no longer AFK.")
-        time.sleep(3)
+        await asyncio.sleep(3)
         await msg.delete()
         if BOTLOG:
             await notafk.client.send_message(
