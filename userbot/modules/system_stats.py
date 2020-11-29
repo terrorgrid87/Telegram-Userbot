@@ -208,7 +208,7 @@ async def pipcheck(pip):
 @register(outgoing=True, pattern=r"^\.(?:alive|on)\s?(.)?")
 async def amireallyalive(alive):
     """For .alive command, check if the bot is running."""
-    output = ("`At your services...`\n"
+    output = ("`PRIMEHPC FX1000 is running...`\n"
               "`=================================`\n"
               f"👤 `User        :` {DEFAULTUSER}\n"
               f"🐍 `Python      :` v{python_version()}\n"

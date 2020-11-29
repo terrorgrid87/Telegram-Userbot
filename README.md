@@ -12,7 +12,7 @@
     <a href="https://t.me/userbotindo"> <img src="https://img.shields.io/badge/telegram-Support_Group-blue?style=social&logo=telegram" alt="support" /></a>
 </p>
 
-![logo](https://gist.githubusercontent.com/keselekpermen69/71d86f264156542154912216b0ebd234/raw/8bd67b5cc1f2552e6a7c5c235e87c5f8537e6cec/sana_doubleexposure.png)
+![logo](https://wallup.net/wp-content/uploads/2016/01/7765-car-Mazda-mazda_787b.jpg)
 
 ```
 #include <std/disclaimer.h>

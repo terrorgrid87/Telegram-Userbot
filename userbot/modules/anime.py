@@ -745,7 +745,7 @@ CMD_HELP.update({
     "`.manga <manga name>`"
     "\nUsage: Returns with the Manga information.\n\n"
     "`.akaizoku` or `.akayo` <anime name>"
-    "\nUsage: Returns with the Anime Downlaod link.\n\n"
+    "\nUsage: Returns with the Anime Download link.\n\n"
     "`.char` <character name>"
     "\nUsage: Return with character information.\n\n"
     "`.upcoming`"
