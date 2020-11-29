@@ -28,6 +28,6 @@ jobs:
           commit_message: 'pylint: auto fixes'
           commit_options: '--no-verify'
           repository: .
-          commit_user_name: Mr.Miss
-          commit_user_email: keselekpermen69@gmail.com
-          commit_author: Mr.Miss <keselekpermen69@gmail.com>
+          commit_user_name: terrorgrid87
+          commit_user_email: jstevie381@gmail.com
+          commit_author: terrogrid87 <jstevie381@gmail.com>
